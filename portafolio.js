@@ -28,6 +28,10 @@ var trabajos = [
     figure: "media/foto-07.jpg",
     title: "Dorso",
     about: "Sistema de hidratación para choferes, específicamente del transporte público.",
+}, {
+    figure: "media/foto-08.jpg",
+    title: "RAD",
+    about: "Producto acoplable a patinetas con el fin de poner en práctica nuevos trucos similares al ‘snowboard’, elaborado con polímeros reciclados.",
 }
 ]
 // LUEGO CREAMOS PARTES DEL SITIO CON CADA DATO CONTENIDO EN LA VARIABLE
